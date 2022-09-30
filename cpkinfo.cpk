@@ -1,0 +1,4 @@
+SOLNAME = examplegame
+COMPILEMODE = 1
+-lraylib 
+-lm
